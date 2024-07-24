@@ -1,0 +1,47 @@
+judy@judy-virtual-machine:~/桌面/Ex3$ python3 ex3a.py
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "7f96268063fe2b4bad9bfbaa3d6276a17d8c4cb890af92e2b4b645deacb20a83",
+    "addresses": [
+      "mv9uPvqWjsLoDQZw9WfLqkf7sSa3FULraV"
+    ],
+    "total": 6666,
+    "fees": 60991,
+    "size": 178,
+    "vsize": 178,
+    "preference": "high",
+    "relayed_by": "163.123.192.134",
+    "received": "2023-10-14T12:50:16.488301709Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 1,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "ff49b1a8cfcdd9c198a8e7017d9417eafa1b2c2391f441c924782059c49d4eb3",
+        "output_index": 4,
+        "script": "483045022100ed835cebc55bdf3907e4a4494f5bcaca8726a49221e196592293be236b31f14602203b8df63fb53c7bb972bbb8ef27869959ad707038d436c7ee66ec5459b7f6e377012103b8a7bd0c7b5c012a7abc2b1905f030d25013ac8ef86097ef10c52d5fdfd78c16",
+        "output_value": 67657,
+        "sequence": 4294967295,
+        "addresses": [
+          "mv9uPvqWjsLoDQZw9WfLqkf7sSa3FULraV"
+        ],
+        "script_type": "pay-to-pubkey-hash",
+        "age": 2499115
+      }
+    ],
+    "outputs": [
+      {
+        "value": 6666,
+        "script": "6e9302d3008894020d0887",
+        "addresses": null,
+        "script_type": "unknown"
+      }
+    ]
+  }
+}
+

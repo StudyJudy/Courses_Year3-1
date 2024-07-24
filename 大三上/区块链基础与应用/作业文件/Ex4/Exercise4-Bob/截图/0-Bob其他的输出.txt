@@ -1,0 +1,34 @@
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Bob$ python3 keygen.py
+Private key: cVGneoryx5qMQpd8e1aFeggJKdU2muJaKBLjagG8mR9AeNr5U1rD
+Address: monqWwckKskrYXDBto1a3zzL9ePxC9cFzx
+
+Bob token:6b848750c13c4577a456cc1f695e60f1
+
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Bob$ curl -X POST https://api.blockcypher.com/v1/bcy/test/addrs?token=6b848750c13c4577a456cc1f695e60f1
+{
+  "private": "76e2297bda40e4824fc090d581655b4496552df198598ad61766169450e50598",
+  "public": "0234483cb7b056f2f9290ef1f693299237a31bdca8b0e20a466041f2d98231b0e1",
+  "address": "Bz8DDXh2W6RzyNptFP6L6kc4Xjzkpmupkj",
+  "wif": "BsK8Bc1Zk4CvdUjfm71KY5oSjmrfmhpuDb5j7aBgDkTxCjTtnTVi"
+
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Bob$ curl -d '{"address":"Bz8DDXh2W6RzyNptFP6L6kc4Xjzkpmupkj","amount":1000000}' https://api.blockcypher.com/v1/bcy/test/faucet?token=6b848750c13c4577a456cc1f695e60f1
+{
+  "tx_ref": "3dc37acdbf64dcc45363055af737b219891824269b10b29ec5785edaef68267a"
+
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Bob$ curl https://api.blockcypher.com/v1/bcy/test
+{
+  "name": "BCY.test",
+  "height": 1058748,
+  "hash": "000096629610b696267d02823caf2b52ad00f7dcc4c2d594256fb21719021b00",
+  "time": "2023-11-08T05:24:29.081477633Z",
+  "latest_url": "https://api.blockcypher.com/v1/bcy/test/blocks/000096629610b696267d02823caf2b52ad00f7dcc4c2d594256fb21719021b00",
+  "previous_hash": "0000b1662d7fa1db2e14ada8bcc88ebd62fb3f26c1d0895c8f8b35ecb840144e",
+  "previous_url": "https://api.blockcypher.com/v1/bcy/test/blocks/0000b1662d7fa1db2e14ada8bcc88ebd62fb3f26c1d0895c8f8b35ecb840144e",
+  "peer_count": 0,
+  "unconfirmed_count": 1,
+  "high_fee_per_kb": 111235,
+  "medium_fee_per_kb": 67114,
+  "low_fee_per_kb": 45000,
+  "last_fork_height": 1048976,
+  "last_fork_hash": "000022cd98b80a82ddbcf9ded4ae99d75ffb326c6fc74919b18f54a5f29ec2da"
+

@@ -1,0 +1,31 @@
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Alice$ python3 keygen.py
+Private key: cSji1idwDiE6UcCCCsaHMoPawoELhTvNUS8a6BXcDmEU2VGWGHuS
+Address: n1Czno6KhSRa6qdE4Ed7tJWVwsn4FAywgk
+
+Alice token:0cba5c8b52c9406bb1f3dd8a63b8e0b7
+
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Alice$ curl -X POST https://api.blockcypher.com/v1/bcy/test/addrs?token=0cba5c8b52c9406bb1f3dd8a63b8e0b7
+{
+  "private": "72e9a3846c06634892db9a2278999466cdc9878507a6d6165c77301c8fc90a02",
+  "public": "0326c1341605523fdec666e3b60e83ddbe70c489c1c8be0c42e4d084cec5f25692",
+  "address": "BsWfitMMv4CTb8CTxRR4MxWbSYN2XfXb1h",
+  "wif": "BsBQVt3Y3KM89rjrUFSbcD1GVvN9MYS8Cp9YK2Fe17jCxiyC4EQD"
+
+
+judy@judy-virtual-machine:~/桌面/UpdateExercise4-Alice$ curl https://api.blockcypher.com/v1/btc/test3
+{
+  "name": "BTC.test3",
+  "height": 2537460,
+  "hash": "000000000000000daf8227e130aa21ef37fd2e0ff02b80bf8d5b377b171f7279",
+  "time": "2023-11-08T04:48:30.944983729Z",
+  "latest_url": "https://api.blockcypher.com/v1/btc/test3/blocks/000000000000000daf8227e130aa21ef37fd2e0ff02b80bf8d5b377b171f7279",
+  "previous_hash": "00000000f427d705c8f02f83c629a6453bafd34120dfad9c9e94406a8b04a2d9",
+  "previous_url": "https://api.blockcypher.com/v1/btc/test3/blocks/00000000f427d705c8f02f83c629a6453bafd34120dfad9c9e94406a8b04a2d9",
+  "peer_count": 300,
+  "unconfirmed_count": 119,
+  "high_fee_per_kb": 41442,
+  "medium_fee_per_kb": 29944,
+  "low_fee_per_kb": 14139,
+  "last_fork_height": 2535938,
+  "last_fork_hash": "000000000000277a0446852804a8b6c22cd69225755736606e1804b4de3e7f3a"
+

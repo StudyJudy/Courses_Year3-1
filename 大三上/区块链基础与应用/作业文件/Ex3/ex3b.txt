@@ -1,0 +1,46 @@
+judy@judy-virtual-machine:~/桌面/Ex3$ python3 ex3b.py
+201 Created
+{
+  "tx": {
+    "block_height": -1,
+    "block_index": -1,
+    "hash": "1b364364bdda517ea51eb17c39f04acdbabaa49863fbbc9876b18b9810104285",
+    "addresses": [
+      "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB"
+    ],
+    "total": 88,
+    "fees": 6578,
+    "size": 91,
+    "vsize": 91,
+    "preference": "medium",
+    "relayed_by": "163.123.192.135",
+    "received": "2023-10-14T13:11:15.060577808Z",
+    "ver": 1,
+    "double_spend": false,
+    "vin_sz": 1,
+    "vout_sz": 1,
+    "confirmations": 0,
+    "inputs": [
+      {
+        "prev_hash": "7f96268063fe2b4bad9bfbaa3d6276a17d8c4cb890af92e2b4b645deacb20a83",
+        "output_index": 0,
+        "script": "027004029d83",
+        "output_value": 6666,
+        "sequence": 4294967295,
+        "script_type": "unknown",
+        "age": 2532891
+      }
+    ],
+    "outputs": [
+      {
+        "value": 88,
+        "script": "76a9149f9a7abd600c0caa03983a77c8c3df8e062cb2fa88ac",
+        "addresses": [
+          "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB"
+        ],
+        "script_type": "pay-to-pubkey-hash"
+      }
+    ]
+  }
+}
+
