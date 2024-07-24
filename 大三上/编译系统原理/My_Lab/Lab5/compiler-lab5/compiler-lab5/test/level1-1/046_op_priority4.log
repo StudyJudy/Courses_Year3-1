@@ -1,0 +1,121 @@
+Ast::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+DeclStmt::genCode
+IfStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t16,src_addr :@a
+BinaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t17,src_addr :@b
+Id::genCode
+@c
+LoadInstruction
+dst: %t18,src_addr :@c
+BinaryExpr::genCode
+Id::genCode
+@d
+LoadInstruction
+dst: %t21,src_addr :@d
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t22,src_addr :@a
+Id::genCode
+@c
+LoadInstruction
+dst: %t23,src_addr :@c
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t27,src_addr :@a
+Id::genCode
+@b
+LoadInstruction
+dst: %t28,src_addr :@b
+Id::genCode
+@c
+LoadInstruction
+dst: %t30,src_addr :@c
+BinaryExpr::genCode
+Id::genCode
+@e
+LoadInstruction
+dst: %t32,src_addr :@e
+Id::genCode
+@d
+LoadInstruction
+dst: %t33,src_addr :@d
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t37,src_addr :@a
+Id::genCode
+@b
+LoadInstruction
+dst: %t38,src_addr :@b
+Id::genCode
+@c
+LoadInstruction
+dst: %t40,src_addr :@c
+BinaryExpr::genCode
+Id::genCode
+@d
+LoadInstruction
+dst: %t42,src_addr :@d
+Id::genCode
+@e
+LoadInstruction
+dst: %t43,src_addr :@e
+CompoundStmt::genCode
+AssignStmt::genCode
+ReturnStmt::genCode
+Id::genCode
+@flag
+LoadInstruction
+dst: %t48,src_addr :%t50
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

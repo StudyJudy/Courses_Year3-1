@@ -1,0 +1,87 @@
+Ast::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+FunctionDef::genCode
+DeclStmt::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t7,src_addr :%t34
+BinaryExpr::genCode
+Id::genCode
+@n
+LoadInstruction
+dst: %t8,src_addr :%t32
+CompoundStmt::genCode
+SeqNode::genCode
+IfStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@n
+LoadInstruction
+dst: %t11,src_addr :%t32
+Id::genCode
+@i
+LoadInstruction
+dst: %t12,src_addr :%t34
+CompoundStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@sum
+LoadInstruction
+dst: %t16,src_addr :%t35
+Id::genCode
+@i
+LoadInstruction
+dst: %t17,src_addr :%t34
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t20,src_addr :%t34
+ReturnStmt::genCode
+Id::genCode
+@sum
+LoadInstruction
+dst: %t22,src_addr :%t35
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+DeclStmt::genCode
+ReturnStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@m
+LoadInstruction
+dst: %t29,src_addr :%t45
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

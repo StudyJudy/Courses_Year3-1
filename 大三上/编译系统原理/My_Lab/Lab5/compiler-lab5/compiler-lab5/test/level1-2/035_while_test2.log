@@ -1,0 +1,124 @@
+Ast::genCode
+SeqNode::genCode
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t8,src_addr :%t46
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t11,src_addr :%t46
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t13,src_addr :%t47
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t16,src_addr :%t47
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t18,src_addr :%t48
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t21,src_addr :%t48
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@d
+LoadInstruction
+dst: %t23,src_addr :%t49
+CompoundStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@d
+LoadInstruction
+dst: %t26,src_addr :%t49
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@d
+LoadInstruction
+dst: %t29,src_addr :%t49
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t32,src_addr :%t48
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t35,src_addr :%t47
+ReturnStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t37,src_addr :%t46
+BinaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t38,src_addr :%t47
+Id::genCode
+@d
+LoadInstruction
+dst: %t39,src_addr :%t49
+Id::genCode
+@c
+LoadInstruction
+dst: %t42,src_addr :%t48
+FunctionDef::genCode
+CompoundStmt::genCode
+ReturnStmt::genCode
+FuncCallExpr::genCode
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

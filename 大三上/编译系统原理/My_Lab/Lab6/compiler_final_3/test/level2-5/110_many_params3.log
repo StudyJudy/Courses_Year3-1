@@ -1,0 +1,4 @@
+test/level2-5/110_many_params3.s
+/home/judy/gcc-linaro_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/14.0.0/../../../../arm-linux-gnueabihf/bin/ld: warning: /tmp/cc0sfp92.o: missing .note.GNU-stack section implies executable stack
+/home/judy/gcc-linaro_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/14.0.0/../../../../arm-linux-gnueabihf/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+TOTAL: 0H-0M-0S-0us

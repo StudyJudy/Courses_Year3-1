@@ -1,0 +1,2 @@
+test/lab5/07_func_ret_val2.s
+expected a i32 type to return, but no returned value found

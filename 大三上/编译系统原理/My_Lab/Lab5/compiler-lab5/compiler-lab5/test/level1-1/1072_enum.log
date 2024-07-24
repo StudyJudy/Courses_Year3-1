@@ -1,0 +1,112 @@
+Ast::genCode
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t7,src_addr :%t39
+CompoundStmt::genCode
+SeqNode::genCode
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@j
+LoadInstruction
+dst: %t9,src_addr :%t40
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t10,src_addr :%t39
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t14,src_addr :%t39
+Id::genCode
+@j
+LoadInstruction
+dst: %t16,src_addr :%t40
+IfStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t18,src_addr :%t39
+BinaryExpr::genCode
+Id::genCode
+@j
+LoadInstruction
+dst: %t20,src_addr :%t40
+BinaryExpr::genCode
+Id::genCode
+@k
+LoadInstruction
+dst: %t23,src_addr :%t41
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+FuncCallExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t27,src_addr :%t39
+FuncCallExpr::genCode
+Id::genCode
+@j
+LoadInstruction
+dst: %t28,src_addr :%t40
+FuncCallExpr::genCode
+Id::genCode
+@k
+LoadInstruction
+dst: %t29,src_addr :%t41
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@t
+LoadInstruction
+dst: %t31,src_addr :%t42
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@j
+LoadInstruction
+dst: %t33,src_addr :%t40
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t36,src_addr :%t39
+ReturnStmt::genCode
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

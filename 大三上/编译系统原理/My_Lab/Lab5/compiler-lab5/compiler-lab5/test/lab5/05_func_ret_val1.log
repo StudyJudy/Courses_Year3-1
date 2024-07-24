@@ -1,0 +1,5 @@
+function type doesn't match return type
+function has no return statement function type doesn't match return type
+function type doesn't match return type
+compiler: src/Ast.cpp:1067: virtual void FunctionDef::typeCheck(): Assertion `stmt->checkRet(retType)' failed.
+timeout: 被监视的命令已核心转储

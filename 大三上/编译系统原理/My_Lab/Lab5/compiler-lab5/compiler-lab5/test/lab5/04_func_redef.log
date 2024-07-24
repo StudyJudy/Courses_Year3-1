@@ -1,0 +1,3 @@
+function "@error_func" is defined twice
+compiler: src/SymbolTable.cpp:25: void SymbolEntry::setNext(SymbolEntry*): Assertion `(long unsigned int)count != ((FunctionType *)(temp->getType()))->getParamsType().size()' failed.
+timeout: 被监视的命令已核心转储

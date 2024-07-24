@@ -1,0 +1,4 @@
+test/lab5/04_func_undef2.s
+identifier "new_f" is undefined
+compiler: src/parser.y:283: int yyparse(): Assertion `se != nullptr' failed.
+timeout: 被监视的命令已核心转储

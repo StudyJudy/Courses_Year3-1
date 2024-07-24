@@ -1,0 +1,4 @@
+test/level1-1/1068_accumulate.s
+/home/judy/gcc-linaro_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/14.0.0/../../../../arm-linux-gnueabihf/bin/ld: warning: /tmp/cc7rOyor.o: missing .note.GNU-stack section implies executable stack
+/home/judy/gcc-linaro_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/14.0.0/../../../../arm-linux-gnueabihf/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+TOTAL: 0H-0M-0S-0us

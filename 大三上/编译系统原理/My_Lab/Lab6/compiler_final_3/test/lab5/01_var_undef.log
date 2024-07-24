@@ -1,0 +1,4 @@
+test/lab5/01_var_undef.s
+identifier "sum" is undefined
+compiler: src/parser.y:92: int yyparse(): Assertion `se != nullptr' failed.
+timeout: 被监视的命令已核心转储

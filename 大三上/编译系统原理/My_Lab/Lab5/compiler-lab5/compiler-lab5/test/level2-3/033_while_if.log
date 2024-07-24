@@ -1,0 +1,112 @@
+Ast::genCode
+SeqNode::genCode
+SeqNode::genCode
+FunctionDef::genCode
+DeclStmt::genCode
+CompoundStmt::genCode
+ReturnStmt::genCode
+FunctionDef::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t5,src_addr :%t41
+Id::genCode
+@b
+LoadInstruction
+dst: %t6,src_addr :%t43
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t8,src_addr :%t45
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+IfStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t12,src_addr :%t45
+CompoundStmt::genCode
+SeqNode::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t15,src_addr :%t45
+Id::genCode
+@d
+LoadInstruction
+dst: %t16,src_addr :%t50
+IfStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t18,src_addr :%t45
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@d
+LoadInstruction
+dst: %t22,src_addr :%t50
+IfStmt::genCode
+BinaryExpr::genCode
+FuncCallExpr::genCode
+CompoundStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@e
+LoadInstruction
+dst: %t27,src_addr :%t57
+ReturnStmt::genCode
+Id::genCode
+@c
+LoadInstruction
+dst: %t29,src_addr :%t45
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@p
+LoadInstruction
+dst: %t33,src_addr :%t62
+Id::genCode
+@p
+LoadInstruction
+dst: %t34,src_addr :%t62
+FuncCallExpr::genCode
+Id::genCode
+@p
+LoadInstruction
+dst: %t36,src_addr :%t62
+ReturnStmt::genCode
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

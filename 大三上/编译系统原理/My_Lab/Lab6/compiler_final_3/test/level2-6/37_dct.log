@@ -1,0 +1,5 @@
+test/level2-6/37_dct.s
+/home/judy/gcc-linaro_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/14.0.0/../../../../arm-linux-gnueabihf/bin/ld: warning: /tmp/ccgHNzeh.o: missing .note.GNU-stack section implies executable stack
+/home/judy/gcc-linaro_arm-linux-gnueabihf/bin/../lib/gcc/arm-linux-gnueabihf/14.0.0/../../../../arm-linux-gnueabihf/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+timeout: 被监视的命令已核心转储

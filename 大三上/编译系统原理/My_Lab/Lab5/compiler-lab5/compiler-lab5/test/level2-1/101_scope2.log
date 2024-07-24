@@ -1,0 +1,3 @@
+identifier "k" is defined twice
+compiler: src/parser.y:441: int yyparse(): Assertion `identifiers->lookup((yyvsp[-2].strtype))==nullptr' failed.
+timeout: 被监视的命令已核心转储

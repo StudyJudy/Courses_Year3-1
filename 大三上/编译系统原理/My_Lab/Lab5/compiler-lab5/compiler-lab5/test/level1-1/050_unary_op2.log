@@ -1,0 +1,61 @@
+Ast::genCode
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t5,src_addr :%t27
+UnaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t8,src_addr :%t28
+IfElseStmt::genCode
+UnaryExpr::genCode
+UnaryExpr::genCode
+UnaryExpr::genCode
+UnaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t11,src_addr :%t27
+出去NOT
+出去NOT
+出去NOT
+CompoundStmt::genCode
+AssignStmt::genCode
+UnaryExpr::genCode
+UnaryExpr::genCode
+UnaryExpr::genCode
+CompoundStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@b
+LoadInstruction
+dst: %t22,src_addr :%t28
+FuncCallExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t25,src_addr :%t27
+ReturnStmt::genCode
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

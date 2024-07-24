@@ -1,0 +1,479 @@
+Ast::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+FunctionDef::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+IfStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@v0
+LoadInstruction
+dst: %t5,src_addr :%t187
+Id::genCode
+@v1
+LoadInstruction
+dst: %t6,src_addr :%t189
+AssignStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@ans
+LoadInstruction
+dst: %t10,src_addr :%t185
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@ans
+LoadInstruction
+dst: %t13,src_addr :%t185
+Id::genCode
+@v
+LoadInstruction
+dst: %t14,src_addr :%t191
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@s
+LoadInstruction
+dst: %t17,src_addr :@s
+Id::genCode
+@ans
+LoadInstruction
+dst: %t18,src_addr :%t185
+ReturnStmt::genCode
+Id::genCode
+@ans
+LoadInstruction
+dst: %t20,src_addr :%t185
+FunctionDef::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+IfStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@v0
+LoadInstruction
+dst: %t25,src_addr :%t198
+Id::genCode
+@v1
+LoadInstruction
+dst: %t26,src_addr :%t200
+AssignStmt::genCode
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@ans
+LoadInstruction
+dst: %t30,src_addr :%t196
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@ans
+LoadInstruction
+dst: %t33,src_addr :%t196
+Id::genCode
+@v
+LoadInstruction
+dst: %t34,src_addr :%t202
+ReturnStmt::genCode
+Id::genCode
+@ans
+LoadInstruction
+dst: %t36,src_addr :%t196
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+UnaryExpr::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+BinaryExpr::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+BinaryExpr::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@k0
+LoadInstruction
+dst: %t50,src_addr :%t207
+Id::genCode
+@k1
+LoadInstruction
+dst: %t51,src_addr :%t208
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t54,src_addr :%t212
+BinaryExpr::genCode
+Id::genCode
+@k0
+LoadInstruction
+dst: %t55,src_addr :%t207
+Id::genCode
+@k2
+LoadInstruction
+dst: %t57,src_addr :%t209
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t60,src_addr :%t212
+Id::genCode
+@k0
+LoadInstruction
+dst: %t61,src_addr :%t207
+BinaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@k3
+LoadInstruction
+dst: %t62,src_addr :%t210
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t67,src_addr :%t212
+Id::genCode
+@k0
+LoadInstruction
+dst: %t68,src_addr :%t207
+BinaryExpr::genCode
+Id::genCode
+@k4
+LoadInstruction
+dst: %t69,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t73,src_addr :%t212
+BinaryExpr::genCode
+Id::genCode
+@k1
+LoadInstruction
+dst: %t74,src_addr :%t208
+BinaryExpr::genCode
+Id::genCode
+@k2
+LoadInstruction
+dst: %t76,src_addr :%t209
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t80,src_addr :%t212
+Id::genCode
+@k1
+LoadInstruction
+dst: %t81,src_addr :%t208
+BinaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@k3
+LoadInstruction
+dst: %t82,src_addr :%t210
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t87,src_addr :%t212
+Id::genCode
+@k1
+LoadInstruction
+dst: %t88,src_addr :%t208
+BinaryExpr::genCode
+Id::genCode
+@k4
+LoadInstruction
+dst: %t89,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@k2
+LoadInstruction
+dst: %t93,src_addr :%t209
+Id::genCode
+@k3
+LoadInstruction
+dst: %t94,src_addr :%t210
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a2
+LoadInstruction
+dst: %t97,src_addr :%t213
+Id::genCode
+@k2
+LoadInstruction
+dst: %t98,src_addr :%t209
+Id::genCode
+@k4
+LoadInstruction
+dst: %t99,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a2
+LoadInstruction
+dst: %t102,src_addr :%t213
+Id::genCode
+@k3
+LoadInstruction
+dst: %t103,src_addr :%t210
+Id::genCode
+@k4
+LoadInstruction
+dst: %t104,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a2
+LoadInstruction
+dst: %t107,src_addr :%t213
+BinaryExpr::genCode
+Id::genCode
+@k0
+LoadInstruction
+dst: %t108,src_addr :%t207
+BinaryExpr::genCode
+Id::genCode
+@k1
+LoadInstruction
+dst: %t110,src_addr :%t208
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@k0
+LoadInstruction
+dst: %t114,src_addr :%t207
+Id::genCode
+@k1
+LoadInstruction
+dst: %t115,src_addr :%t208
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a3
+LoadInstruction
+dst: %t118,src_addr :%t214
+BinaryExpr::genCode
+Id::genCode
+@k0
+LoadInstruction
+dst: %t119,src_addr :%t207
+Id::genCode
+@k2
+LoadInstruction
+dst: %t121,src_addr :%t209
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a3
+LoadInstruction
+dst: %t124,src_addr :%t214
+Id::genCode
+@k0
+LoadInstruction
+dst: %t125,src_addr :%t207
+BinaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@k3
+LoadInstruction
+dst: %t126,src_addr :%t210
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a3
+LoadInstruction
+dst: %t131,src_addr :%t214
+Id::genCode
+@k0
+LoadInstruction
+dst: %t132,src_addr :%t207
+BinaryExpr::genCode
+Id::genCode
+@k4
+LoadInstruction
+dst: %t133,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a3
+LoadInstruction
+dst: %t137,src_addr :%t214
+BinaryExpr::genCode
+Id::genCode
+@k1
+LoadInstruction
+dst: %t138,src_addr :%t208
+BinaryExpr::genCode
+Id::genCode
+@k2
+LoadInstruction
+dst: %t140,src_addr :%t209
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a3
+LoadInstruction
+dst: %t144,src_addr :%t214
+Id::genCode
+@k1
+LoadInstruction
+dst: %t145,src_addr :%t208
+BinaryExpr::genCode
+UnaryExpr::genCode
+Id::genCode
+@k3
+LoadInstruction
+dst: %t146,src_addr :%t210
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a3
+LoadInstruction
+dst: %t151,src_addr :%t214
+Id::genCode
+@k1
+LoadInstruction
+dst: %t152,src_addr :%t208
+BinaryExpr::genCode
+Id::genCode
+@k4
+LoadInstruction
+dst: %t153,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@k2
+LoadInstruction
+dst: %t157,src_addr :%t209
+Id::genCode
+@k3
+LoadInstruction
+dst: %t158,src_addr :%t210
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a4
+LoadInstruction
+dst: %t161,src_addr :%t215
+Id::genCode
+@k2
+LoadInstruction
+dst: %t162,src_addr :%t209
+Id::genCode
+@k4
+LoadInstruction
+dst: %t163,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a4
+LoadInstruction
+dst: %t166,src_addr :%t215
+Id::genCode
+@k3
+LoadInstruction
+dst: %t167,src_addr :%t210
+Id::genCode
+@k4
+LoadInstruction
+dst: %t168,src_addr :%t211
+AssignStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@a4
+LoadInstruction
+dst: %t171,src_addr :%t215
+BinaryExpr::genCode
+Id::genCode
+@k0
+LoadInstruction
+dst: %t172,src_addr :%t207
+BinaryExpr::genCode
+Id::genCode
+@k1
+LoadInstruction
+dst: %t174,src_addr :%t208
+ReturnStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a1
+LoadInstruction
+dst: %t177,src_addr :%t212
+Id::genCode
+@a2
+LoadInstruction
+dst: %t178,src_addr :%t213
+Id::genCode
+@a3
+LoadInstruction
+dst: %t180,src_addr :%t214
+Id::genCode
+@a4
+LoadInstruction
+dst: %t182,src_addr :%t215
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us

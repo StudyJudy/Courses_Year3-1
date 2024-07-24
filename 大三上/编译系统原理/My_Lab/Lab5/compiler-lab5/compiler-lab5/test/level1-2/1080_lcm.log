@@ -1,0 +1,138 @@
+Ast::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+FunctionDef::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+Id::genCode
+@m
+LoadInstruction
+dst: %t6,src_addr :%t49
+AssignStmt::genCode
+Id::genCode
+@n
+LoadInstruction
+dst: %t8,src_addr :%t51
+DeclStmt::genCode
+DeclStmt::genCode
+IfStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@m
+LoadInstruction
+dst: %t11,src_addr :%t49
+Id::genCode
+@n
+LoadInstruction
+dst: %t12,src_addr :%t51
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+Id::genCode
+@m
+LoadInstruction
+dst: %t15,src_addr :%t49
+AssignStmt::genCode
+Id::genCode
+@n
+LoadInstruction
+dst: %t17,src_addr :%t51
+AssignStmt::genCode
+Id::genCode
+@t
+LoadInstruction
+dst: %t19,src_addr :%t55
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@m
+LoadInstruction
+dst: %t21,src_addr :%t49
+Id::genCode
+@n
+LoadInstruction
+dst: %t22,src_addr :%t51
+WhileStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@r
+LoadInstruction
+dst: %t24,src_addr :%t56
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+AssignStmt::genCode
+Id::genCode
+@n
+LoadInstruction
+dst: %t27,src_addr :%t51
+AssignStmt::genCode
+Id::genCode
+@r
+LoadInstruction
+dst: %t29,src_addr :%t56
+AssignStmt::genCode
+BinaryExpr::genCode
+Id::genCode
+@m
+LoadInstruction
+dst: %t31,src_addr :%t49
+Id::genCode
+@n
+LoadInstruction
+dst: %t32,src_addr :%t51
+ReturnStmt::genCode
+BinaryExpr::genCode
+BinaryExpr::genCode
+Id::genCode
+@a
+LoadInstruction
+dst: %t34,src_addr :%t53
+Id::genCode
+@b
+LoadInstruction
+dst: %t35,src_addr :%t54
+Id::genCode
+@n
+LoadInstruction
+dst: %t37,src_addr :%t51
+FunctionDef::genCode
+CompoundStmt::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+SeqNode::genCode
+DeclStmt::genCode
+DeclStmt::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+AssignStmt::genCode
+FuncCallExpr::genCode
+ReturnStmt::genCode
+FuncCallExpr::genCode
+Id::genCode
+@i
+LoadInstruction
+dst: %t45,src_addr :%t65
+Id::genCode
+@m
+LoadInstruction
+dst: %t46,src_addr :%t66
+warning: overriding the module target triple with x86_64-pc-linux-gnu [-Woverride-module]
+1 warning generated.
+TOTAL: 0H-0M-0S-0us
